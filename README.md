@@ -3,14 +3,15 @@
 Utilice [Nuxt 2 Vue](https://nuxtjs.org/docs/get-started/installation) , para los estilos se uso [Tailwindcss](https://tailwindcss.com/).
 
 ### Codigo Principal
-El codigo donde esta el algoritmo se encuentra en esta ruta
-[src/views/Home.vue](https://github.com/hidalgo27/intercorp/blob/master/src/views/Home.vue)
+El código donde esta la lógica se encuentra en esta ruta:
+[/pages/index.vue](https://github.com/hidalgo27/interseguro-matriz/blob/master/pages/index.vue)
+
+### Version de NODE utilizado
+npm v12.22.12
 
 ## Clonar el repositorio
 git clone https://github.com/hidalgo27/intercorp.git
 
-## Version de NODE utilizado
-npm v12.22.12
 ## Ejecutar el comando
 npm install
 
@@ -21,7 +22,7 @@ npm run dev
 http://localhost:3000/interseguro/
 
 ## Prueba
-Ejercicio para rotar una matriz NxN en forma antihoraria (-90 grados). Ejemplos:
+Ejercicio rota una matriz NxN en forma antihoraria (-90 grados). Ejemplos:
 
 Matriz de 2x2
 ```
